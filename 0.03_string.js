@@ -31,6 +31,8 @@ var carYear = "2013"
 var messageSilver = "I drive a" + " " + carYear + " " + carMake + " " + carModel;
 console.log(messageSilver);
 
+
+
 var age = 43
 if (age < 18) {
 	console.log("You are a minor");
